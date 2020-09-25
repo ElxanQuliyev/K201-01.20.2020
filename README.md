@@ -1,6 +1,5 @@
 # K201-01.20.2020
 <ul>
-<li>Aşağıdakı linkdə olan tutorial-ları bitirin
 
 <li>Git Bash yüklənmə linki ( https://git-scm.com/download/win )</li>
 <li>Visual Studio Code Yüklenme linki (https://code.visualstudio.com/)
